@@ -1,4 +1,4 @@
-package com.srccodes.example;
+package com.demo.demo;
 
 import java.io.IOException;
 import java.io.PrintWriter;
